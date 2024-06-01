@@ -1,4 +1,5 @@
 # DecisionTreeBuilder
+> Project made for the Framework Design course
 
 The Decision Tree Builder is a web application built using LitElement, which allows users to visually create and manipulate decision trees.
 
