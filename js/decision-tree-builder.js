@@ -1,6 +1,5 @@
 import { LitElement, html, css, nothing } from '../node_modules/lit/index.js';
 
-
 class DecisionTreeBuilder extends LitElement {
     static styles = css`
         .container {
@@ -56,7 +55,7 @@ class DecisionTreeBuilder extends LitElement {
             border-radius: 50px;
             font-weight: bold;
             margin-bottom: 10px;
-            border: 3px solid red;
+            border: 3px solid #4488ff;
         }
         #submit {
             font-weight: bold;
