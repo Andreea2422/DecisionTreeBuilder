@@ -25,7 +25,10 @@ The app presents the following features:
     - Importing a JSON file allows users to load previously saved decision trees.
   
 4. **Deleting Nodes**
-    - Users can delete nodes, which also removes associated connections. 
+    - Users can delete nodes, which also removes associated connections.
+  
+![image](https://github.com/Andreea2422/DecisionTreeBuilder/assets/100094242/d75d07ef-28ec-4a43-89e7-551227be72f3)
+
 
 ## :file_folder: File Structure
 -	**index.html** : HTML file defining the structure of the web page.
